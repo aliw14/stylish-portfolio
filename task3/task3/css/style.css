@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.first {
+    width: auto;
+    text-align: center;
+    font-size: 5.5rem;
+    margin-top:35px;
+    color: #212529;
+    margin-bottom: 0.55rem;
+    margin-top: -3rem;
+}
+
+.second {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.6rem;
+    border-radius: 0.25rem;
+    color: #212529;
+}
+
+.button {
+    margin-top: 3rem;
+    display: inline-block;
+    border-color: #1D809F;
+    padding: 1.25rem 2.5rem;
+    font-weight: 400;
+    border: 1px solid #1D809F;
+    color: #fff;
+    background-color: #1D809F;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #1d819fcf;
+    border-color: #1d819fcf;
+}
+
+.image {
+    height: 100vh;
+    box-sizing: border-box;
+    background-image: url(https://c1.wallpaperflare.com/preview/187/979/746/pencils-yellow-business-drawing.jpg);
+    text-align: center;
+    background-position: center;
+    padding: 15rem;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.newpage1 {
+    text-align: center;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-size: 1.5rem;
+
+}
+
+.newpage2 {
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    margin-top: 0.1rem;
+    line-height: 0.1cm;
+    font-size: 0.7rem;
+}
+
+.button2 {
+    margin-top: 3rem;
+    display: inline-block;
+    text-align: center;
+    padding: 1.25rem 2.5rem;
+    cursor: pointer;
+    border: 1px solid transparent;
+    color: white;
+    background-color: black;
+    border-color: black;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+
+}
+
+.button2:hover {
+    background-color: rgba(0, 0, 0, 0.589);
+    border-color: rgba(0, 0, 0, 0.589);
+}
+
+.image2 h1 {
+    color: white;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    text-align: center;
+
+}
+
+.image2 h3 {
+    text-align: center;
+    color: #cbb807;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+
+}
+
+.image2 img {
+    border-radius: 51%;
+    width: 100px;
+    height: 100px;
+
+}
+
+.image2 strong {
+    color: white;
+}
+
+.image2 p {
+    color: rgba(255, 255, 255, 0.658);
+}
+
+.scissors {
+    margin-top: -6rem;
+    background-image: url(https://media.licdn.com/dms/image/C4D12AQGAyAc9JUEqqQ/article-cover_image-shrink_720_1280/0/1547553429387?e=2147483647&v=beta&t=hITExMvcc-4ZCcPksMFxDsR1ezR40kih7_9glEEgtZo);
+    padding: 15rem;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.welcome {
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    margin-top: 9rem;
+    color: #212529;
+    font-size: 2rem;
+    text-align: center;
+}
